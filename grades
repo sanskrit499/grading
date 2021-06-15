@@ -1,0 +1,7 @@
+#include<stdio.h>
+main()
+printf("gradeA 85-100
+gradeB 70-84
+gradeC 55-69
+gradeD 40-54
+gradeF below 40");
